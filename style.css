@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color:hotpink;
+    font-family: 'MonteCarlo', cursive;
+}
+#hd1{
+    color:gold ;
+    background-color: black;
+}
+
+#named{
+    color:ivory;
+}
+
+#germansheperd{
+
+    width: 600px;
+    height: 500px;
+    border-radius: 50px;
+
+}
